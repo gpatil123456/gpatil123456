@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Gaurav
-- 🌱 I am Completed web developed courese
+- 👋 Hi, I’m Gaurav Patil
+- 🌱I have knowledge java,angular,html,css,nodejs,express,mysql
 
 
 <!---
